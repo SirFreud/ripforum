@@ -33,7 +33,7 @@
     @if (auth()->check())
         <div class="row">
             <div class="col-md-8 col-md-offset-2">
-                <form action="{{ route('add_replies', ['thread' => $thread->id]) }}" method="POST">
+                <form action="{{ route('add_replies', ['channel' => $thread->channel, 'thread' => $thread->id]) }}" method="POST">
                     {{ csrf_field() }}
                     <div class="form-group">
                         <textarea name="body" id="body" class="form-control" rows="5" placeholder="Have something to contribute?"></textarea>
