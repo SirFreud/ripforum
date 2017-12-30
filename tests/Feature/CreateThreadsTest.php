@@ -37,7 +37,8 @@ class CreateThreadsTest extends TestCase
         $this->get($response->headers->get('Location'))
             ->assertSee($thread->title)
             ->assertSee($thread->body);
-    }    
+    }
+
 
     /** @test */
     public function a_thread_requires_a_title()
@@ -64,8 +65,6 @@ class CreateThreadsTest extends TestCase
         $this->publishThread(['channel_id' => 999])
             ->assertSessionHasErrors('channel_id');
     }
-    
-    
 
     public function publishThread($overrides = [])
     {
