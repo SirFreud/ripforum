@@ -4,7 +4,6 @@ namespace App\Filters;
 
 
 use Illuminate\Http\Request;
-use function method_exists;
 
 abstract class Filters
 {
@@ -25,22 +24,18 @@ abstract class Filters
     public function apply($builder)
     {
         $this->builder = $builder;
-        foreach ($this->filters as $filter)
-        {
-            if (! $this->hasFilter($filter)) return;
-            $this->$filter($this->request->$filter);
 
+        foreach ($this->getFilters() as $filter => $value) {
+            if (method_exists($this, $filter)) {
+                $this->$filter($value);
+            }
         }
 
         return $this->builder;
     }
 
-    /**
-     * @param $filter
-     * @return bool
-     */
-    protected function hasFilter($filter)
+    protected function getFilters()
     {
-        return method_exists($this, $filter) && $this->request->has($filter);
+        return array_filter($this->request->only($this->filters));
     }
 }
