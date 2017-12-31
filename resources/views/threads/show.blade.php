@@ -7,7 +7,7 @@
                 <div class="panel panel-default">
 
                     <div class="panel-heading">
-                        <a href="#">
+                        <a href="{{ route('profile', $thread->creator) }}">
                             {{ $thread->creator->name }}
                         </a>
                         posted:
@@ -24,6 +24,7 @@
                 @endforeach
 
                 {{ $replies->links() }}
+
 
 
                 @if (auth()->check())
