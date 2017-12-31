@@ -3,9 +3,7 @@
 namespace Tests\Feature;
 
 use Tests\TestCase;
-use Illuminate\Foundation\Testing\WithoutMiddleware;
 use Illuminate\Foundation\Testing\DatabaseMigrations;
-use Illuminate\Foundation\Testing\DatabaseTransactions;
 
 class ParticipateInForumTest extends TestCase
 {
@@ -23,7 +21,7 @@ class ParticipateInForumTest extends TestCase
     /** @test */
     public function an_authenticated_user_may_participate_in_forum_threads()
     {
-        // Given we have an authenticated user and an existing thread
+        // Given we hdave an authenticated user and an existing thread
         $this->be($user = factory('App\User')->create());
         $thread = factory('App\Thread')->create();
         // When the user adds a reply to the thread
