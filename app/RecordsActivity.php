@@ -15,16 +15,17 @@ trait RecordsActivity
         }
 
         // A more generic, polymorphic version of the below thread-specific function
+        // This allows any model to fire an event regardless of whether it's a thread or a reply etc
+        // Instead of only being able to fire a specific 'created' event for a $thread object
         foreach (static::getActivitiesToRecord() as $event)
         {
             static::$event(function ($model) use ($event) {
                 $model->recordActivity($event);
             });
         }
-
-//        static::created(function ($thread){
-//            $thread->recordActivity('created');
-//        });
+       // static::created(function ($thread){
+       //     $thread->recordActivity('created');
+       // });
     }
 
     protected static function getActivitiesToRecord()
@@ -49,9 +50,6 @@ trait RecordsActivity
 //            'subject_type' => get_class($this)
 //        ]);
     }
-
-
-
     public function activity()
     {
         return $this->morphMany('App\Activity', 'subject');

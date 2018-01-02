@@ -1,0 +1,1290 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"testclass",
+				"testclass\tPHP Test Class"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"Th",
+				"ThreadsController"
+			],
+			[
+				"remote",
+				"remote_page_name"
+			],
+			[
+				"pub",
+				"pub_date"
+			],
+			[
+				"futu",
+				"future_question"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"Htt",
+				"HttpResponseRedirect"
+			],
+			[
+				"select",
+				"selected_choice"
+			],
+			[
+				"selec",
+				"selected_choice"
+			],
+			[
+				"question",
+				"question_id"
+			],
+			[
+				"fact",
+				"factory"
+			],
+			[
+				"align",
+				"vertical-align"
+			],
+			[
+				"dis",
+				"disableExceptionHandling"
+			],
+			[
+				"Datab",
+				"DatabaseMigrations"
+			],
+			[
+				"Nested",
+				"NestedSet"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"compon",
+				"components"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"Re",
+				"Repositories"
+			],
+			[
+				"array_fil",
+				"array_filter"
+			],
+			[
+				"class",
+				"classmethod\tclass"
+			],
+			[
+				"valid",
+				"valid_moves\tstatement"
+			],
+			[
+				"new",
+				"new_item\tstatement"
+			],
+			[
+				"clear",
+				"clear_screen\tfunction"
+			],
+			[
+				"shopp",
+				"shopping_list\tstatement"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 320.0,
+		"last_filter": "test",
+		"selected_items":
+		[
+			[
+				"test",
+				"PHPUnit: Test Nearest"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"run ",
+				"PHPUnit: Run Tests"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"editsn",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"edit",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"make snip",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"ori des",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"ori",
+				"Origami: Create Pane on the Left"
+			],
+			[
+				"make snippet",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"djan",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"disable linting",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"sublim",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"sublien",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"sublimelinter",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"sublimelinter choo",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git s",
+				"Git: Show"
+			],
+			[
+				"uninstl",
+				"Colorsublime: Uninstall Theme"
+			],
+			[
+				"mono",
+				"Monokai Pro: select theme"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"sel theme",
+				"UI: Select Theme"
+			],
+			[
+				"sel color ",
+				"UI: Select Color Scheme"
+			],
+			[
+				"sel color s",
+				"UI: Select Color Scheme"
+			],
+			[
+				"sele theme",
+				"UI: Select Theme"
+			],
+			[
+				"sel color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"selec theme",
+				"UI: Select Theme"
+			],
+			[
+				"select colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"select them",
+				"UI: Select Theme"
+			],
+			[
+				"color sch",
+				"UI: Select Color Scheme"
+			],
+			[
+				"select ",
+				"UI: Select Theme"
+			],
+			[
+				"uninstall",
+				"Colorsublime: Uninstall Theme"
+			],
+			[
+				"color scheme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"find",
+				"PHPCompanion:Find Use"
+			],
+			[
+				"make sni",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"make sn",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"package list",
+				"Package Control: List Packages"
+			],
+			[
+				"alignment",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"fin",
+				"PHPCompanion:Find Use"
+			],
+			[
+				"findu",
+				"PHPCompanion:Find Use"
+			],
+			[
+				"blad",
+				"Set Syntax: Laravel Blade"
+			],
+			[
+				"blade",
+				"Set Syntax: Laravel Blade"
+			],
+			[
+				"finduse",
+				"PHPCompanion:Find Use"
+			],
+			[
+				"enable lin",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"make s",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"edit sn",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"find use",
+				"PHPCompanion:Find Use"
+			],
+			[
+				"make model",
+				"Laravel Artisan 5: Make:Model"
+			],
+			[
+				"edi",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"makesn",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"lint mode",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"sublime",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"sublime setting",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"rails",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"material",
+				"Material Theme: Activate theme"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"ui sele",
+				"UI: Select Theme"
+			],
+			[
+				"toggle",
+				"View: Toggle Status Bar"
+			],
+			[
+				"toggle tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"col",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"php",
+				"PHPCompanion:Find Use"
+			],
+			[
+				"des",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"origam pane lef",
+				"Origami: Create Pane on the Left"
+			],
+			[
+				"edit s",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"edit ",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"snippetmaker",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"syn blade",
+				"Set Syntax: Laravel Blade"
+			],
+			[
+				"syn sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"set blade",
+				"Set Syntax: Laravel Blade"
+			],
+			[
+				"set s bla",
+				"Set Syntax: Laravel Blade"
+			],
+			[
+				"sublinter",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimelinter debug",
+				"SublimeLinter: Enable Debug Mode"
+			],
+			[
+				"sublimelinter user",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"makesnip",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"make",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"inscon",
+				"PHPCompanion:Insert Constructor Property"
+			],
+			[
+				"contructor",
+				"PHPCompanion:Insert Constructor Property"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"set liqui",
+				"Set Syntax: HTML Liquid"
+			],
+			[
+				"dj",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"colorsub",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"django",
+				"Set Syntax: HTML (Django)"
+			]
+		],
+		"width": 592.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"sublime.log_commands(True)",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mikevaldez/Dropbox/code/ripforum/tests/Feature/ProfilesTest.php",
+		"/Users/mikevaldez/.zshrc",
+		"/Users/mikevaldez/Dropbox/code/ripforum/ripforum.sublime-project",
+		"/Users/mikevaldez/Dropbox/code/ripforum/.gitignore",
+		"/Users/mikevaldez/Dropbox/code/ripforum/app/Http/Controllers/ProfilesController.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Factory.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/vendor/laravel/framework/src/Illuminate/Database/Eloquent/FactoryBuilder.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/_ide_helper.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/app/Activity.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/resources/views/profiles/activities/activity.blade.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/resources/views/profiles/show.blade.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/database/migrations/2017_12_15_223551_create_threads_table.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/resources/views/profiles/activities/created_thread.blade.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/tests/Unit/ActivityTest.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/resources/views/profiles/activities/created_reply.blade.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/app/User.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/database/factories/ModelFactory.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/vendor/laravel/framework/src/Illuminate/Contracts/Auth/UserProvider.php",
+		"/Users/mikevaldez/Library/Application Support/Sublime Text 3/Packages/User/Snippets/factPHP.sublime-snippet",
+		"/Users/mikevaldez/Dropbox/code/ripforum/app/Reply.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/node_modules/css-loader/lib/createResolver.js",
+		"/Users/mikevaldez/Dropbox/code/ripforum/database/migrations/2017_12_31_002905_create_favorites_table.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/app/Favoritable.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/app/Thread.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/app/RecordsActivity.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/database/migrations/2018_01_01_230219_create_activities_table.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/database/seeds/DatabaseSeeder.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/.env",
+		"/Users/mikevaldez/Dropbox/code/ripforum/node_modules/electron-releases/.env.example",
+		"/Users/mikevaldez/Dropbox/code/ripforum/app/Filters/ThreadFilters.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/app/Http/Controllers/ThreadsController.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/tests/Unit/ReplyTest.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/tests/Feature/ReadThreadsTest.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/resources/views/threads/show.blade.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/app/Filters/Filters.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/vendor/phpspec/prophecy/src/Prophecy/Promise/ThrowPromise.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/resources/views/layouts/app.blade.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/app/Providers/AppServiceProvider.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/app/Providers/EventServiceProvider.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemServiceProvider.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/vendor/composer/ClassLoader.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/routes/web.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/public/index.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/resources/views/threads/create.blade.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/app/Channel.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/tests/Unit/ChannelTest.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/tests/Feature/ParticipateInForumTest.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/tests/Feature/CreateThreadsTest.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/vendor/laravel/framework/src/Illuminate/Broadcasting/BroadcastManager.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/app/Http/Controllers/RepliesController.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/vendor/phpunit/phpunit/tests/_files/TestWithTest.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/tests/TestCase.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/app/Exceptions/Handler.php",
+		"/Users/mikevaldez/Library/Application Support/Sublime Text 3/Packages/User/Snippets/bstextareaHTML.sublime-snippet",
+		"/Users/mikevaldez/Dropbox/code/ripforum/tests/Unit/ThreadTest.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/config/app.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/tests/utilities/functions.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/composer.json",
+		"/Users/mikevaldez/Dropbox/code/ripforum/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/bootstrap/app.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/resources/views/threads/reply.blade.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/database/migrations/2017_12_15_223724_create_replies_table.php",
+		"/Users/mikevaldez/Library/Application Support/Sublime Text 3/Packages/User/Snippets/newtestfunctionPHP.sublime-snippet",
+		"/Users/mikevaldez/Dropbox/code/ripforum/tests/Feature/ThreadsTest.php",
+		"/Users/mikevaldez/Library/Application Support/Sublime Text 3/Packages/User/Snippets/newtestPHP.sublime-snippet",
+		"/Users/mikevaldez/Dropbox/code/ripforum/resources/views/home.blade.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/vendor/laravel/framework/src/Illuminate/Foundation/Testing/DatabaseMigrations.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/phpunit.xml",
+		"/Users/mikevaldez/Dropbox/code/ripforum/config/database.php",
+		"/Users/mikevaldez/Library/Application Support/Sublime Text 3/Packages/User/Snippets/testclassPHP.sublime-snippet",
+		"/Users/mikevaldez/Dropbox/code/ripforum/notes.txt",
+		"/Users/mikevaldez/Dropbox/code/ripforum/database/migrations/2017_12_15_222159_create_threads_table.php",
+		"/Users/mikevaldez/Dropbox/code/ripforum/database/factories/ThreadFactory.php",
+		"/Users/mikevaldez/Dropbox/code/mysite/polls/tests.py",
+		"/Users/mikevaldez/Dropbox/code/web_scraper/Gemfile",
+		"/Users/mikevaldez/Dropbox/code/mysite/mysite/urls.py",
+		"/Users/mikevaldez/Dropbox/code/mysite/mysite/settings.py",
+		"/Users/mikevaldez/Dropbox/code/mysite/polls/models.py",
+		"/Users/mikevaldez/Dropbox/code/mysite/polls/admin.py",
+		"/Users/mikevaldez/Dropbox/code/mysite/polls/views.py",
+		"/Users/mikevaldez/Dropbox/code/mysite/polls/templates/polls/results.html",
+		"/Users/mikevaldez/Dropbox/code/mysite/polls/templates/polls/detail.html",
+		"/Users/mikevaldez/Dropbox/code/mysite/polls/templates/polls/index.html",
+		"/Users/mikevaldez/Dropbox/code/mysite/polls/urls.py",
+		"/Users/mikevaldez/Dropbox/code/mysite/polls/apps.py",
+		"/Users/mikevaldez/Dropbox/code/mysite/polls/migrations/0001_initial.py",
+		"/Users/mikevaldez/Dropbox/code/mysite/polls/migrations/__init__.py",
+		"/Users/mikevaldez/Dropbox/code/topforum/resources/views/threads/show.blade.php",
+		"/Users/mikevaldez/Dropbox/code/topforum/tests/Feature/ReadThreadsTest.php",
+		"/Users/mikevaldez/Dropbox/code/topforum/readme.md",
+		"/Users/mikevaldez/Dropbox/code/topforum/tests/Feature/ThreadsTest.php",
+		"/Users/mikevaldez/Dropbox/code/topforum/routes/web.php",
+		"/Users/mikevaldez/Dropbox/code/topforum/app/Http/Controllers/ThreadsController.php",
+		"/Users/mikevaldez/Dropbox/code/topforum/tests/TestCase.php",
+		"/Users/mikevaldez/Dropbox/code/topforum/resources/views/threads/index.blade.php",
+		"/Users/mikevaldez/Dropbox/code/topforum/app/Thread.php",
+		"/Users/mikevaldez/Dropbox/code/topforum/phpunit.xml",
+		"/Users/mikevaldez/Dropbox/code/topforum/resources/views/home.blade.php",
+		"/Users/mikevaldez/Dropbox/code/bontom-first/app.rb",
+		"/Users/mikevaldez/Dropbox/code/bontom-first/views/index.erb",
+		"/Users/mikevaldez/Dropbox/code/bontom-first/public/app.css",
+		"/Users/mikevaldez/Dropbox/code/bontom-first/views/layout.erb",
+		"/Users/mikevaldez/Dropbox/code/serious_polls/polls/urls.py",
+		"/Users/mikevaldez/Dropbox/code/flask_legislators/app.py",
+		"/Users/mikevaldez/Dropbox/code/legislators/Gemfile",
+		"/Users/mikevaldez/Dropbox/code/legislators/app.rb",
+		"/Users/mikevaldez/Dropbox/code/legislators/client_secret.json",
+		"/Users/mikevaldez/Dropbox/code/bontom_mvp/app/Query.php",
+		"/Users/mikevaldez/Dropbox/code/bontom_mvp/app/Http/Controllers/QueryController.php",
+		"/Users/mikevaldez/Dropbox/code/bigforum/app/Http/Controllers/ThreadsController.php",
+		"/Users/mikevaldez/Dropbox/code/bigforum/routes/web.php",
+		"/Users/mikevaldez/Dropbox/code/bigforum/tests/Feature/ReadThreadsTest.php",
+		"/Users/mikevaldez/Dropbox/code/bigforum/app/Thread.php",
+		"/Users/mikevaldez/Dropbox/code/bigforum/app/Reply.php",
+		"/Users/mikevaldez/Dropbox/code/bontom_mvp/app.rb",
+		"/Users/mikevaldez/Dropbox/code/bontom_mvp/views/index.erb",
+		"/Users/mikevaldez/Dropbox/code/bontom_mvp/.gitignore",
+		"/Users/mikevaldez/Dropbox/code/bontom_mvp/Gemfile",
+		"/Users/mikevaldez/Dropbox/code/bontom_mvp/public/app.css",
+		"/Users/mikevaldez/Dropbox/code/bontom_mvp/client_secret.json",
+		"/Users/mikevaldez/Dropbox/code/bontom_mvp/views/thanks.erb",
+		"/Users/mikevaldez/Dropbox/code/bontom_mvp/views/layout.erb",
+		"/Users/mikevaldez/Dropbox/code/spreadsheet_fun/Gemfile.lock",
+		"/Users/mikevaldez/Dropbox/code/spreadsheet_fun/Gemfile",
+		"/Users/mikevaldez/Gemfile",
+		"/Users/mikevaldez/Dropbox/code/adruntime/database/migrations/2017_12_01_024832_create_replies_table.php",
+		"/Users/mikevaldez/Dropbox/code/adruntime/.env"
+	],
+	"find":
+	{
+		"height": 75.0
+	},
+	"find_in_files":
+	{
+		"height": 198.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"acti",
+			"<?",
+			"0",
+			"morph"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 50.0
+	},
+	"input":
+	{
+		"height": 78.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 272.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 96.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"protest",
+				"tests/Feature/ProfilesTest.php"
+			],
+			[
+				"prof",
+				"tests/Feature/ProfilesTest.php"
+			],
+			[
+				"procon",
+				"app/Http/Controllers/ProfilesController.php"
+			],
+			[
+				"proft",
+				"tests/Feature/ProfilesTest.php"
+			],
+			[
+				"reactivi",
+				"app/RecordsActivity.php"
+			],
+			[
+				"activity",
+				"app/Activity.php"
+			],
+			[
+				"user",
+				"app/User.php"
+			],
+			[
+				"activtest",
+				"tests/Unit/ActivityTest.php"
+			],
+			[
+				"activit",
+				"app/Activity.php"
+			],
+			[
+				"activ",
+				"resources/views/profiles/activities/activity.blade.php"
+			],
+			[
+				"showp",
+				"resources/views/profiles/show.blade.php"
+			],
+			[
+				"userphp",
+				"vendor/laravel/framework/src/Illuminate/Contracts/Auth/UserProvider.php"
+			],
+			[
+				"proficon",
+				"app/Http/Controllers/ProfilesController.php"
+			],
+			[
+				"actiphp",
+				"app/Activity.php"
+			],
+			[
+				"modfac",
+				"database/factories/ModelFactory.php"
+			],
+			[
+				"creathreatabl",
+				"database/migrations/2017_12_15_223551_create_threads_table.php"
+			],
+			[
+				"creat",
+				"resources/views/profiles/activities/created_thread.blade.php"
+			],
+			[
+				"activbl",
+				"resources/views/profiles/activities/activity.blade.php"
+			],
+			[
+				"profsho",
+				"resources/views/profiles/show.blade.php"
+			],
+			[
+				"repl",
+				"app/Reply.php"
+			],
+			[
+				"profcon",
+				"app/Http/Controllers/ProfilesController.php"
+			],
+			[
+				"createdth",
+				"resources/views/profiles/activities/created_thread.blade.php"
+			],
+			[
+				"crearebl",
+				"resources/views/profiles/activities/created_reply.blade.php"
+			],
+			[
+				"createre",
+				"node_modules/css-loader/lib/createResolver.js"
+			],
+			[
+				"creath",
+				"resources/views/profiles/activities/created_thread.blade.php"
+			],
+			[
+				"crerep",
+				"resources/views/profiles/activities/created_reply.blade.php"
+			],
+			[
+				"prosho",
+				"resources/views/profiles/show.blade.php"
+			],
+			[
+				"creactiv",
+				"database/migrations/2018_01_01_230219_create_activities_table.php"
+			],
+			[
+				"activph",
+				"app/Activity.php"
+			],
+			[
+				"threap",
+				"app/Thread.php"
+			],
+			[
+				"rep",
+				"app/Reply.php"
+			],
+			[
+				"reply",
+				"app/Reply.php"
+			],
+			[
+				"favorit",
+				"app/Favoritable.php"
+			],
+			[
+				"creafavor",
+				"database/migrations/2017_12_31_002905_create_favorites_table.php"
+			],
+			[
+				"threadph",
+				"app/Thread.php"
+			],
+			[
+				"recoac",
+				"app/RecordsActivity.php"
+			],
+			[
+				"show",
+				"resources/views/profiles/show.blade.php"
+			],
+			[
+				".env",
+				"node_modules/electron-releases/.env.example"
+			],
+			[
+				"thrfil",
+				"app/Filters/ThreadFilters.php"
+			],
+			[
+				"thrcon",
+				"app/Http/Controllers/ThreadsController.php"
+			],
+			[
+				"thread",
+				"app/Thread.php"
+			],
+			[
+				"modefac",
+				"database/factories/ModelFactory.php"
+			],
+			[
+				"creauserstabl",
+				"database/migrations/2014_10_12_000000_create_users_table.php"
+			],
+			[
+				"readthr",
+				"tests/Feature/ReadThreadsTest.php"
+			],
+			[
+				"threp",
+				"app/Thread.php"
+			],
+			[
+				"threacon",
+				"app/Http/Controllers/ThreadsController.php"
+			],
+			[
+				"show.bl",
+				"resources/views/threads/show.blade.php"
+			],
+			[
+				"showbl",
+				"resources/views/threads/show.blade.php"
+			],
+			[
+				"threacontr",
+				"app/Http/Controllers/ThreadsController.php"
+			],
+			[
+				"threadcon",
+				"app/Http/Controllers/ThreadsController.php"
+			],
+			[
+				"threcon",
+				"app/Http/Controllers/ThreadsController.php"
+			],
+			[
+				"filters",
+				"app/Filters/Filters.php"
+			],
+			[
+				"thrp",
+				"vendor/phpspec/prophecy/src/Prophecy/Promise/ThrowPromise.php"
+			],
+			[
+				"threadf",
+				"app/Filters/ThreadFilters.php"
+			],
+			[
+				"threadfil",
+				"app/Filters/ThreadFilters.php"
+			],
+			[
+				"threadphp",
+				"app/Thread.php"
+			],
+			[
+				"threadco",
+				"app/Http/Controllers/ThreadsController.php"
+			],
+			[
+				"ppblade",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"rwe",
+				"routes/web.php"
+			],
+			[
+				"appser",
+				"app/Providers/AppServiceProvider.php"
+			],
+			[
+				"readthread",
+				"tests/Feature/ReadThreadsTest.php"
+			],
+			[
+				"appbl",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"creabl",
+				"resources/views/threads/create.blade.php"
+			],
+			[
+				"fileserviceprovide",
+				"vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemServiceProvider.php"
+			],
+			[
+				"serviceprovid",
+				"app/Providers/EventServiceProvider.php"
+			],
+			[
+				"inde.",
+				"public/index.php"
+			],
+			[
+				"app.bl",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"layoutapp",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"readthre",
+				"tests/Feature/ReadThreadsTest.php"
+			],
+			[
+				"channete",
+				"tests/Unit/ChannelTest.php"
+			],
+			[
+				"channe",
+				"app/Channel.php"
+			],
+			[
+				"index",
+				"public/index.php"
+			],
+			[
+				"threadoc",
+				"app/Http/Controllers/ThreadsController.php"
+			],
+			[
+				"readth",
+				"tests/Feature/ReadThreadsTest.php"
+			],
+			[
+				"repliescon",
+				"app/Http/Controllers/RepliesController.php"
+			],
+			[
+				"particip",
+				"tests/Feature/ParticipateInForumTest.php"
+			],
+			[
+				"creathret",
+				"tests/Feature/CreateThreadsTest.php"
+			],
+			[
+				"crethrea",
+				"tests/Feature/CreateThreadsTest.php"
+			],
+			[
+				"crea",
+				"tests/Feature/CreateThreadsTest.php"
+			],
+			[
+				"show.blade",
+				"resources/views/threads/show.blade.php"
+			],
+			[
+				"thcon",
+				"app/Http/Controllers/ThreadsController.php"
+			],
+			[
+				"replcon",
+				"app/Http/Controllers/RepliesController.php"
+			],
+			[
+				"participa",
+				"tests/Feature/ParticipateInForumTest.php"
+			],
+			[
+				"creathreat",
+				"tests/Feature/CreateThreadsTest.php"
+			],
+			[
+				"threatest",
+				"tests/Unit/ThreadTest.php"
+			],
+			[
+				"creathreadtest",
+				"tests/Feature/CreateThreadsTest.php"
+			],
+			[
+				"channel",
+				"app/Channel.php"
+			],
+			[
+				"creathread",
+				"database/migrations/2017_12_15_223551_create_threads_table.php"
+			],
+			[
+				"threadtets",
+				"tests/Unit/ThreadTest.php"
+			],
+			[
+				"creathretest",
+				"tests/Feature/CreateThreadsTest.php"
+			],
+			[
+				"threadp",
+				"app/Thread.php"
+			],
+			[
+				"threat",
+				"tests/Unit/ThreadTest.php"
+			],
+			[
+				"creatchanenl",
+				"database/migrations/2017_12_20_011048_create_channels_table.php"
+			],
+			[
+				"modelf",
+				"database/factories/ModelFactory.php"
+			],
+			[
+				"creathrtable",
+				"database/migrations/2017_12_15_223551_create_threads_table.php"
+			],
+			[
+				"thretest",
+				"tests/Unit/ThreadTest.php"
+			],
+			[
+				"thtest",
+				"vendor/phpunit/phpunit/tests/_files/TestWithTest.php"
+			],
+			[
+				"creth",
+				"tests/Feature/CreateThreadsTest.php"
+			],
+			[
+				"index.p",
+				"public/index.php"
+			],
+			[
+				"handler",
+				"app/Exceptions/Handler.php"
+			],
+			[
+				"testcas",
+				"tests/TestCase.php"
+			],
+			[
+				"testca",
+				"tests/TestCase.php"
+			],
+			[
+				"creathre",
+				"tests/Feature/CreateThreadsTest.php"
+			],
+			[
+				"inde",
+				"resources/views/threads/index.blade.php"
+			],
+			[
+				"function",
+				"tests/utilities/functions.php"
+			],
+			[
+				"reathr",
+				"tests/Feature/CreateThreadsTest.php"
+			],
+			[
+				"composer",
+				"composer.json"
+			],
+			[
+				"compo",
+				"composer.json"
+			],
+			[
+				"crethtest",
+				"tests/Feature/CreateThreadsTest.php"
+			],
+			[
+				"confapp",
+				"config/app.php"
+			],
+			[
+				"layapp",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"layoutsapp",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"thshow",
+				"resources/views/threads/show.blade.php"
+			],
+			[
+				"partici",
+				"tests/Feature/ParticipateInForumTest.php"
+			],
+			[
+				"replyt",
+				"tests/Unit/ReplyTest.php"
+			],
+			[
+				"thrtest",
+				"tests/Unit/ThreadTest.php"
+			],
+			[
+				"repbl",
+				"resources/views/threads/reply.blade.php"
+			],
+			[
+				"showb",
+				"resources/views/threads/show.blade.php"
+			],
+			[
+				"partic",
+				"tests/Feature/ParticipateInForumTest.php"
+			],
+			[
+				"thretes",
+				"tests/Unit/ThreadTest.php"
+			],
+			[
+				"repliesc",
+				"app/Http/Controllers/RepliesController.php"
+			],
+			[
+				"threa",
+				"app/Thread.php"
+			],
+			[
+				"threadt",
+				"tests/Unit/ThreadTest.php"
+			],
+			[
+				"crearepl",
+				"database/migrations/2017_12_15_223724_create_replies_table.php"
+			],
+			[
+				"replies",
+				"app/Http/Controllers/RepliesController.php"
+			],
+			[
+				"threate",
+				"tests/Unit/ThreadTest.php"
+			],
+			[
+				"modef",
+				"database/factories/ModelFactory.php"
+			],
+			[
+				"readt",
+				"tests/Feature/ReadThreadsTest.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+		"phpunit._test_last":
+		{
+			"file": "tests/Feature/ProfilesTest.php",
+			"options":
+			{
+				"filter": "::(profiles_display_all_threads_created_by_the_associated_user)( with data set .+)?$"
+			},
+			"working_dir": "/Users/mikevaldez/Dropbox/code/ripforum"
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 390.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
