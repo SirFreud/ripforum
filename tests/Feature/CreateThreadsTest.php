@@ -2,6 +2,7 @@
 
 namespace Tests\Feature;
 
+use App\Activity;
 use Tests\TestCase;
 use Illuminate\Foundation\Testing\WithoutMiddleware;
 use Illuminate\Foundation\Testing\DatabaseMigrations;
@@ -86,7 +87,6 @@ class CreateThreadsTest extends TestCase
         $this->delete($thread->path())
             ->assertStatus(403);
 
-
     }
 
     /** @test */
@@ -95,7 +95,6 @@ class CreateThreadsTest extends TestCase
         $this->signIn();
 
         $thread = factory('App\Thread')->create(['user_id' => auth()->id()]);
-
         $reply = factory('App\Reply')->create(['thread_id' => $thread->id]);
 
         $response = $this->json('DELETE', $thread->path());
@@ -104,5 +103,15 @@ class CreateThreadsTest extends TestCase
 
         $this->assertDatabaseMissing('threads', ['id' => $thread->id]);
         $this->assertDatabaseMissing('replies', ['id' => $reply->id]);
+        // $this->assertDatabaseMissing('activities', [
+        //     'subject_id' => $thread->id,
+        //     'subject_type' => get_class($thread)
+        // ]);
+        // $this->assertDatabaseMissing('activities', [
+        //     'subject_id' => $reply->id,
+        //     'subject_type' => get_class($reply)
+        // ]);
+        $this->assertEquals(0, Activity::count());
+    
     }
 }
