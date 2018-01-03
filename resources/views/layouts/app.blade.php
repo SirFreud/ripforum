@@ -17,6 +17,8 @@
         body { padding-bottom: 100px; }
         .level { display: flex; align-items: center; }
         .flex { flex: 1; }
+        .mr-1 { margin-right: 1em; }
+        [v-cloak] { display: none; }
     </style>
 </head>
 <body style="padding-bottom: 100px;">
@@ -24,6 +26,8 @@
        @include ('layouts.nav')
 
         @yield('content')
+        <flash message="{{ session('flash') }}"></flash>
+        {{-- <flash message="Temporary Message"></flash> --}}
     </div>
 
     <!-- Scripts -->

@@ -34,6 +34,22 @@ class FavoritesTest extends TestCase
     }
 
     /** @test */
+    public function an_unauthenticated_user_can_unfavorite_a_reply()
+    {
+        $this->signIn();
+
+        // The URI will be /replies/id/favorites
+        $reply = factory('App\Reply')->create();  // This also created a thread in the process
+
+        // If I post to a favorite endpoint
+        $reply->favorite();
+        
+        $this->delete('replies/' . $reply->id . '/favorites');
+        $this->assertCount(0, $reply->fresh()->favorites);
+
+    }
+
+    /** @test */
     public function an_authenticated_user_may_only_favorite_a_reply_once()
     {
         $this->signIn();
